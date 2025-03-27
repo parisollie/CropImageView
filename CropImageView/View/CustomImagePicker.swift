@@ -1,10 +1,3 @@
-//
-//  CustomImagePicker.swift
-//  CropImageView
-//
-//  Created by Balaji on 29/12/22.
-//
-
 import SwiftUI
 /// - For Native SwiftUI Image Picker
 import PhotosUI
